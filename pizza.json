@@ -3,7 +3,7 @@
 {
 "id": 10,
 "name": "Vegan Veggie",
-"price": "23.95",
+"price": "Rs 400",
 "menu_description": "Daiya vegan mozzarella, paired with fresh veggies",
 "classifications": {
 "vegetarian": true
@@ -90,7 +90,7 @@
 {
 "id": 11,
 "name": "Veggie Zupreme",
-"price": "19.95",
+"price": "Rs.450",
 "menu_description": "The freshest, locally sourced veggies",
 "classifications": {
 "vegetarian": true
@@ -185,7 +185,7 @@
 {
 "id": 12,
 "name": "The O.G.",
-"price": "16.95",
+"price": "Rs.350",
 "menu_description": "The Margherita—with California flair",
 "classifications": {
 "vegetarian": true
@@ -295,7 +295,7 @@
 {
 "id": 14,
 "name": "Schezwan Margherita",
-"price": "22.95",
+"price": "Rs.320",
 "menu_description": "Your very own Margherita, now with a spicy twist! Loaded with our signature spicy schezwan sauce & 100% mozzarella cheese.",
 "classifications": {
 "vegetarian": true
@@ -350,7 +350,7 @@
 {
 "id": 15,
 "name": "Mazedar Makhni Paneer",
-"price": "12.95",
+"price": "Rs.450",
 "menu_description": "A treat for all makhni lovers. Spiced paneer, onion, juicy red bell peppers with our new flavourful makhni sauce, topped with 100% mozzarella cheese and buttery spice sprinkle",
 "classifications": {
 "vegetarian": true
@@ -405,7 +405,7 @@
 {
 "id": 16,
 "name": "Ultimate Tandoori Veggie",
-"price": "18.95",
+"price": "Rs.500",
 "menu_description": "An ultimate combination of your favourite veggies- onion, green capsicum, mushroom, tomato, spicy jalapeno on tandoori sauce, topped with 100% mozzarella cheese & generous drizzle of mint mayo.",
 "classifications": {
 "vegetarian": true
@@ -460,7 +460,7 @@
 {
 "id": 17,
 "name": "Mexican Fiesta",
-"price": "18.95",
+"price": "Rs.430",
 "menu_description": "Flavourful mix of red capsicum, green capsicum, jalapeno, onion, black olives, sweet corn and 100% mozzarella Cheese with a signature spice sprinkle & our flavourful pan sauce.",
 "classifications": {
 "vegetarian": true
